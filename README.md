@@ -1,0 +1,2 @@
+# is_e2e_wait_repo_created_hcco01hs
+E2E chain1 repo is_e2e_wait_repo_created_hcco01hs
